@@ -1,0 +1,558 @@
+{
+  "users": {
+    "clara.vance": {
+      "username": "Clara Vance",
+      "passwordHash": "",
+      "isGuest": false,
+      "saveData": {
+        "username": "Clara Vance",
+        "isGuest": false,
+        "coins": 1450,
+        "score": 4820,
+        "highestLevelUnlocked": 14,
+        "completedLevels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "unlockedClues": [
+          "clue_001",
+          "clue_002",
+          "clue_003",
+          "clue_004",
+          "clue_005"
+        ],
+        "unlockedAchievements": [
+          "ach_first_night",
+          "ach_silent_visitor",
+          "ach_missing_gift"
+        ]
+      },
+      "updatedAt": "2026-11-18T19:43:57.713Z"
+    },
+    "julian.blackwood": {
+      "username": "Julian Blackwood",
+      "passwordHash": "",
+      "isGuest": false,
+      "saveData": {
+        "username": "Julian Blackwood",
+        "isGuest": false,
+        "coins": 2900,
+        "score": 9410,
+        "highestLevelUnlocked": 32,
+        "completedLevels": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "unlockedClues": [
+          "clue_001",
+          "clue_002",
+          "clue_003",
+          "clue_004",
+          "clue_005",
+          "clue_006"
+        ],
+        "unlockedAchievements": [
+          "ach_first_night",
+          "ach_silent_visitor",
+          "ach_missing_gift",
+          "ach_santa_knows",
+          "ach_locked_attic"
+        ]
+      },
+      "updatedAt": "2026-11-18T19:43:57.713Z"
+    },
+    "guest nanny #4714": {
+      "username": "Guest Nanny #4714",
+      "passwordHash": "",
+      "isGuest": true,
+      "saveData": {
+        "username": "Guest Nanny #4714",
+        "isGuest": true,
+        "coins": 500,
+        "score": 0,
+        "highestLevelUnlocked": 1,
+        "completedLevels": [],
+        "unlockedClues": [
+          "clue_001"
+        ],
+        "unlockedAchievements": [],
+        "unlockedOutfits": [
+          "classic_nanny"
+        ],
+        "decisions": {},
+        "nanny": {
+          "name": "Clara Vance",
+          "skinTone": "#d6a584",
+          "hairStyle": "bun",
+          "hairColor": "#2c1e16",
+          "outfit": "classic_nanny",
+          "accessory": "gold_locket",
+          "voiceTone": "steady"
+        },
+        "ownedProperties": [
+          {
+            "propertyId": "prop_studio_avenue",
+            "wallColor": "#1f1616",
+            "lightingMood": "warm_candle",
+            "securityTier": 1,
+            "allowFriends": false,
+            "furniture": [
+              {
+                "instanceId": "init_lamp",
+                "itemId": "furn_lamp",
+                "name": "Brass Floor Lamp",
+                "room": "Living Area",
+                "gridX": 2,
+                "gridY": 2,
+                "color": "#c99a3b"
+              },
+              {
+                "instanceId": "init_desk",
+                "itemId": "furn_desk",
+                "name": "Mahogany Archive Desk",
+                "room": "Living Area",
+                "gridX": 4,
+                "gridY": 1,
+                "color": "#3e2723"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "cameraDefault": "first-person",
+          "mouseSensitivity": 1,
+          "touchSensitivity": 1,
+          "graphicsQuality": "high",
+          "masterVolume": 0.75,
+          "subtitlesEnabled": true,
+          "showTouchControls": "auto",
+          "accessibilitySlowGaze": false,
+          "reducedFlicker": false
+        },
+        "metrics": {
+          "averageClearSeconds": 0,
+          "cluesFoundCount": 1,
+          "gazeDeathsCount": 0,
+          "roomsExploredCount": 1,
+          "coopMissionsCleared": 0
+        },
+        "notifications": [
+          {
+            "id": "notif_welcome",
+            "title": "Babysitting Assignment Confirmed",
+            "body": "Report to Blackwood Christmas Estate before midnight. Read the desk note first—and never stare into Nicholas's eyes if they glow red.",
+            "kind": "mission",
+            "timestamp": "Just now",
+            "read": false
+          }
+        ]
+      },
+      "updatedAt": "2026-11-18T19:44:30.985Z"
+    },
+    "guest nanny #9725": {
+      "username": "Guest Nanny #9725",
+      "passwordHash": "",
+      "isGuest": true,
+      "saveData": {
+        "username": "Guest Nanny #9725",
+        "isGuest": true,
+        "coins": 500,
+        "score": 0,
+        "highestLevelUnlocked": 1,
+        "completedLevels": [],
+        "unlockedClues": [
+          "clue_001"
+        ],
+        "unlockedAchievements": [],
+        "unlockedOutfits": [
+          "classic_nanny"
+        ],
+        "decisions": {},
+        "nanny": {
+          "name": "Clara Vance",
+          "skinTone": "#d6a584",
+          "hairStyle": "bun",
+          "hairColor": "#2c1e16",
+          "outfit": "classic_nanny",
+          "accessory": "gold_locket",
+          "voiceTone": "steady"
+        },
+        "ownedProperties": [
+          {
+            "propertyId": "prop_studio_avenue",
+            "wallColor": "#1f1616",
+            "lightingMood": "warm_candle",
+            "securityTier": 1,
+            "allowFriends": false,
+            "furniture": [
+              {
+                "instanceId": "init_lamp",
+                "itemId": "furn_lamp",
+                "name": "Brass Floor Lamp",
+                "room": "Living Area",
+                "gridX": 2,
+                "gridY": 2,
+                "color": "#c99a3b"
+              },
+              {
+                "instanceId": "init_desk",
+                "itemId": "furn_desk",
+                "name": "Mahogany Archive Desk",
+                "room": "Living Area",
+                "gridX": 4,
+                "gridY": 1,
+                "color": "#3e2723"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "cameraDefault": "first-person",
+          "mouseSensitivity": 1,
+          "touchSensitivity": 1,
+          "graphicsQuality": "high",
+          "masterVolume": 0.75,
+          "subtitlesEnabled": true,
+          "showTouchControls": "auto",
+          "accessibilitySlowGaze": false,
+          "reducedFlicker": false
+        },
+        "metrics": {
+          "averageClearSeconds": 0,
+          "cluesFoundCount": 1,
+          "gazeDeathsCount": 0,
+          "roomsExploredCount": 1,
+          "coopMissionsCleared": 0
+        },
+        "notifications": [
+          {
+            "id": "notif_welcome",
+            "title": "Babysitting Assignment Confirmed",
+            "body": "Report to Blackwood Christmas Estate before midnight. Read the desk note first—and never stare into Nicholas's eyes if they glow red.",
+            "kind": "mission",
+            "timestamp": "Just now",
+            "read": false
+          }
+        ]
+      },
+      "updatedAt": "2026-11-18T19:47:21.105Z"
+    },
+    "nanny guest": {
+      "username": "Nanny Guest",
+      "passwordHash": "",
+      "isGuest": true,
+      "saveData": {
+        "username": "Nanny Guest",
+        "isGuest": true,
+        "coins": 500,
+        "score": 0,
+        "highestLevelUnlocked": 1,
+        "completedLevels": [],
+        "unlockedClues": [
+          "clue_001"
+        ],
+        "unlockedAchievements": [],
+        "unlockedOutfits": [
+          "classic_nanny"
+        ],
+        "decisions": {},
+        "nanny": {
+          "name": "Clara Vance",
+          "skinTone": "#d6a584",
+          "hairStyle": "bun",
+          "hairColor": "#2c1e16",
+          "outfit": "classic_nanny",
+          "accessory": "gold_locket",
+          "voiceTone": "steady"
+        },
+        "ownedProperties": [
+          {
+            "propertyId": "prop_studio_avenue",
+            "wallColor": "#1f1616",
+            "lightingMood": "warm_candle",
+            "securityTier": 1,
+            "allowFriends": false,
+            "furniture": [
+              {
+                "instanceId": "init_lamp",
+                "itemId": "furn_lamp",
+                "name": "Brass Floor Lamp",
+                "room": "Living Area",
+                "gridX": 2,
+                "gridY": 2,
+                "color": "#c99a3b"
+              },
+              {
+                "instanceId": "init_desk",
+                "itemId": "furn_desk",
+                "name": "Mahogany Archive Desk",
+                "room": "Living Area",
+                "gridX": 4,
+                "gridY": 1,
+                "color": "#3e2723"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "cameraDefault": "first-person",
+          "mouseSensitivity": 1,
+          "touchSensitivity": 1,
+          "graphicsQuality": "high",
+          "masterVolume": 0.75,
+          "subtitlesEnabled": true,
+          "showTouchControls": "auto",
+          "accessibilitySlowGaze": false,
+          "reducedFlicker": false
+        },
+        "metrics": {
+          "averageClearSeconds": 0,
+          "cluesFoundCount": 1,
+          "gazeDeathsCount": 0,
+          "roomsExploredCount": 1,
+          "coopMissionsCleared": 0
+        },
+        "notifications": [
+          {
+            "id": "notif_welcome",
+            "title": "Babysitting Assignment Confirmed",
+            "body": "Report to Blackwood Christmas Estate before midnight. Read the desk note first—and never stare into Nicholas's eyes if they glow red.",
+            "kind": "mission",
+            "timestamp": "Just now",
+            "read": false
+          }
+        ]
+      },
+      "updatedAt": "2026-11-19T17:16:40.812Z"
+    },
+    "guest nanny #2519": {
+      "username": "Guest Nanny #2519",
+      "passwordHash": "",
+      "isGuest": true,
+      "saveData": {
+        "username": "Guest Nanny #2519",
+        "isGuest": true,
+        "coins": 500,
+        "score": 0,
+        "highestLevelUnlocked": 1,
+        "completedLevels": [],
+        "unlockedClues": [
+          "clue_001"
+        ],
+        "unlockedAchievements": [],
+        "unlockedOutfits": [
+          "classic_nanny"
+        ],
+        "decisions": {},
+        "nanny": {
+          "name": "Clara Vance",
+          "skinTone": "#d6a584",
+          "hairStyle": "bun",
+          "hairColor": "#2c1e16",
+          "outfit": "classic_nanny",
+          "accessory": "gold_locket",
+          "voiceTone": "steady"
+        },
+        "ownedProperties": [
+          {
+            "propertyId": "prop_studio_avenue",
+            "wallColor": "#1f1616",
+            "lightingMood": "warm_candle",
+            "securityTier": 1,
+            "allowFriends": false,
+            "furniture": [
+              {
+                "instanceId": "init_lamp",
+                "itemId": "furn_lamp",
+                "name": "Brass Floor Lamp",
+                "room": "Living Area",
+                "gridX": 2,
+                "gridY": 2,
+                "color": "#c99a3b"
+              },
+              {
+                "instanceId": "init_desk",
+                "itemId": "furn_desk",
+                "name": "Mahogany Archive Desk",
+                "room": "Living Area",
+                "gridX": 4,
+                "gridY": 1,
+                "color": "#3e2723"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "cameraDefault": "third-person",
+          "cameraDistance": 3.1,
+          "mouseSensitivity": 1,
+          "touchSensitivity": 1,
+          "graphicsQuality": "high",
+          "masterVolume": 0.75,
+          "subtitlesEnabled": true,
+          "showTouchControls": "always",
+          "accessibilitySlowGaze": false,
+          "reducedFlicker": false
+        },
+        "metrics": {
+          "averageClearSeconds": 0,
+          "cluesFoundCount": 1,
+          "gazeDeathsCount": 0,
+          "roomsExploredCount": 1,
+          "coopMissionsCleared": 0
+        },
+        "notifications": [
+          {
+            "id": "notif_welcome",
+            "title": "Babysitting Assignment Confirmed",
+            "body": "Report to Blackwood Christmas Estate before midnight. Read the desk note first—and never stare into Nicholas's eyes if they glow red.",
+            "kind": "mission",
+            "timestamp": "Just now",
+            "read": false
+          }
+        ]
+      },
+      "updatedAt": "2026-11-19T17:27:32.716Z"
+    },
+    "guest nanny #3950": {
+      "username": "Guest Nanny #3950",
+      "passwordHash": "",
+      "isGuest": true,
+      "saveData": {
+        "username": "Guest Nanny #3950",
+        "isGuest": true,
+        "coins": 500,
+        "score": 0,
+        "highestLevelUnlocked": 1,
+        "completedLevels": [],
+        "unlockedClues": [
+          "clue_001"
+        ],
+        "unlockedAchievements": [],
+        "unlockedOutfits": [
+          "classic_nanny"
+        ],
+        "decisions": {},
+        "nanny": {
+          "name": "Clara Vance",
+          "skinTone": "#d6a584",
+          "hairStyle": "bun",
+          "hairColor": "#2c1e16",
+          "outfit": "classic_nanny",
+          "accessory": "gold_locket",
+          "voiceTone": "steady"
+        },
+        "ownedProperties": [
+          {
+            "propertyId": "prop_studio_avenue",
+            "wallColor": "#1f1616",
+            "lightingMood": "warm_candle",
+            "securityTier": 1,
+            "allowFriends": false,
+            "furniture": [
+              {
+                "instanceId": "init_lamp",
+                "itemId": "furn_lamp",
+                "name": "Brass Floor Lamp",
+                "room": "Living Area",
+                "gridX": 2,
+                "gridY": 2,
+                "color": "#c99a3b"
+              },
+              {
+                "instanceId": "init_desk",
+                "itemId": "furn_desk",
+                "name": "Mahogany Archive Desk",
+                "room": "Living Area",
+                "gridX": 4,
+                "gridY": 1,
+                "color": "#3e2723"
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "cameraDefault": "third-person",
+          "cameraDistance": 3.1,
+          "mouseSensitivity": 1,
+          "touchSensitivity": 1,
+          "graphicsQuality": "high",
+          "masterVolume": 0.75,
+          "subtitlesEnabled": true,
+          "showTouchControls": "always",
+          "accessibilitySlowGaze": false,
+          "reducedFlicker": false
+        },
+        "metrics": {
+          "averageClearSeconds": 0,
+          "cluesFoundCount": 1,
+          "gazeDeathsCount": 0,
+          "roomsExploredCount": 1,
+          "coopMissionsCleared": 0
+        },
+        "notifications": [
+          {
+            "id": "notif_welcome",
+            "title": "Babysitting Assignment Confirmed",
+            "body": "Report to Blackwood Christmas Estate before midnight. Read the desk note first—and never stare into Nicholas's eyes if they glow red.",
+            "kind": "mission",
+            "timestamp": "Just now",
+            "read": false
+          }
+        ]
+      },
+      "updatedAt": "2026-11-19T17:30:12.341Z"
+    }
+  },
+  "reports": [],
+  "exchanges": [
+    {
+      "id": "ex_seed_1",
+      "from": "Clara Vance",
+      "clueId": "clue_002",
+      "clueTitle": "Torn Ornament Tag (1974)",
+      "message": "Found beneath the manor parlor tree after 3:17 AM.",
+      "createdAt": "2026-11-18T19:43:57.713Z"
+    }
+  ]
+}

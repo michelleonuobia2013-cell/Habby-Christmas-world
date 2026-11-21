@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#070709"/>
+  <circle cx="256" cy="256" r="210" fill="#13080a" stroke="#8b1a1a" stroke-width="8"/>
+  <path d="M135 205 C140 130 205 90 256 90 C307 90 372 130 377 205 L392 225 C392 242 374 252 356 250 L356 285 C356 348 312 396 256 396 C200 396 156 348 156 285 L156 250 C138 252 120 242 120 225 Z" fill="#1c1917" stroke="#c99a3b" stroke-width="4"/>
+  <!-- Santa Hood / Trim -->
+  <path d="M130 198 C145 108 210 74 260 76 C332 78 386 130 394 198 C350 180 162 180 130 198 Z" fill="#7f1d1d"/>
+  <rect x="122" y="186" width="268" height="28" rx="14" fill="#d6d3d1"/>
+  <circle cx="388" cy="146" r="22" fill="#d6d3d1"/>
+  <!-- Glowing Red Devil Eyes -->
+  <ellipse cx="212" cy="272" rx="22" ry="16" fill="#070709"/>
+  <ellipse cx="300" cy="272" rx="22" ry="16" fill="#070709"/>
+  <circle cx="212" cy="272" r="9" fill="#ef4444"/>
+  <circle cx="300" cy="272" r="9" fill="#ef4444"/>
+  <circle cx="212" cy="272" r="3" fill="#fecaca"/>
+  <circle cx="300" cy="272" r="3" fill="#fecaca"/>
+  <!-- Sinister Subtle Grin -->
+  <path d="M210 335 Q256 365 302 335" fill="none" stroke="#c99a3b" stroke-width="5" stroke-linecap="round"/>
+</svg>

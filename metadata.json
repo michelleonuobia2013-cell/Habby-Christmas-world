@@ -1,0 +1,6 @@
+{
+  "name": "Habby Christmas",
+  "description": "Habby Christmas (Horror Baby Christmas): an open-world 3D supernatural horror babysitting simulation with 100 levels, switchable first and third-person cameras, housing, and online co-op.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
